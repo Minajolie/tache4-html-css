@@ -1,0 +1,354 @@
+.menu{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    
+}
+.ho, .pr, .cam, .ad, .ev, .blo{
+    padding: 20px;
+    font-size: 1.2em;
+}
+.acc{
+    background-image: url(images/voile-de-coton-bleu-turquoise.webp);
+    width: 100%;
+    height: 650px;
+}
+.acc img{
+    width: 13%;
+    height: 100px;
+    position: relative;
+    top: 180px;
+    left: 580px;
+    border-radius: 30px;
+}
+.acc h3{
+    width: 23%;
+    height: 60px;
+    margin: auto;
+    background-color:#686867;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+.acc p{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 210px;
+    font-size: 1em;
+}
+span{
+     position: relative;
+     top: 17px;
+     color: white;
+     font-weight: lighter;
+     font-size: 20px;
+}
+.ram{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    bottom: -50px;
+}
+.code{
+    position: relative;
+    bottom: -80px;
+    left: 300px;
+}
+.design{
+    position: relative;
+    top: -7px;
+    left: 600px;
+}
+.mark{
+    position: relative;
+    top: -65px;
+    left: 900px;
+}
+.cercle1{
+    width: 11%;
+    height: 140px;
+    border: 2px solid #2FE7BD;
+    border-radius: 70px;
+    position: relative;
+    top: -165px;
+    left: 280px;
+}
+.cercle1{
+    width: 11%;
+    height: 140px;
+    border: 2px solid #2FE7BD;
+    border-radius: 70px;
+    position: relative;
+    top: -165px;
+    left: 280px;
+}
+.cercle2{
+    width: 11%;
+    height: 140px;
+    border: 2px solid #2FE7BD;
+    border-radius: 70px;
+    position: relative;
+    top: -307px;
+    left: 550px;
+}
+.cercle3{
+    width: 11%;
+    height: 140px;
+    border: 2px solid #2FE7BD;
+    border-radius: 70px;
+    position: relative;
+    top: -450px;
+    left: 850px;
+}
+.pro{
+    text-align: center;
+    position: relative;
+    top: -430px;
+    right: 300px;
+}
+.des{
+    text-align: center;
+    position: relative;
+    top:-530px ;
+    left: -10px;
+}
+
+.markt{
+    text-align: center;
+    position: relative;
+    top:-630px ;
+    left: 290px;
+}
+.p1, .p2,.p3{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.tache{
+    width: 100%;
+    height: 250px;
+    margin: auto;
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    background-color: #E3E8E7;
+}
+.nom{
+    font-size: 2.2em;
+    font-weight: bolder;
+    position: relative;
+    bottom: -50px;
+}
+.div1, .div2, .div3, .div4{
+    display: inline-block;
+    font-size: 1.3em;
+    padding: 15px;
+    position: relative;
+    bottom: -40px;
+}
+.logo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px;
+    position: relative;
+    top: -500px;
+}
+.wp{
+    background-color: #9EDAF0;
+}
+.wp img{
+    position: relative;
+    bottom: -90px;
+    left: 60px;
+}
+.hc{
+    background-color: #5BACE4;
+}
+.hc img{
+    position: relative;
+    bottom: -95px;
+    left: 60px;
+}
+.ca img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    bottom: -110px;
+    left:110px ;
+}
+.ca{
+    background-color: #61615D  ;
+}
+.rond{
+    width: 110px;
+    height: 110px;
+    border: 1px solid #3FB7DD ;
+    border-radius:80px;
+    position:relative;
+    top: -1000px;
+    left: 760px;
+}
+.js{
+    background-color: #57B2AA;
+}
+.js img{
+    position: relative;
+    bottom: -100px;
+    left: 80px;
+}
+.ja{
+    background-color: #6C5759;
+}
+.ja img{
+    position: relative;
+    bottom: -80px;
+    left: 100px;
+    width: 40%;
+}
+.in{
+    background-color: #4FA1C0;
+}
+.in img{
+    width: 40%;
+    position: relative;
+    bottom: -50px;
+    left: 95px;
+}
+.ae{
+    background-color: #4B81CE;
+}
+.ae img{
+       width: 30%;
+       position: relative;
+       bottom: -90px;
+       left: 110px;
+}
+.py{
+    background-color: #7C9C91 ;
+}
+.py img{
+    position: relative;
+    bottom: -120px;
+    left: 70px;
+}
+.viva{
+    position: relative;
+    bottom: 550px;
+}
+.entre{
+    text-align: center;
+}
+.entre h1{
+    font-size: 2.2em;
+}
+.bord1, .bord2, .bord3, .bord4{
+    width: 30%;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 60px;
+}
+.clas2{
+    position: relative;
+    top: -62px;
+    left: 800px;
+}
+.clas4{
+    position: relative;
+    top: -50px;
+    left: 800px;
+}
+.clas1, .clas3{
+    position: relative;
+    left: 60px;
+}
+strong{
+    font-size: 1.1em;
+
+}
+.bord1{
+    background-color: #9BD9C8;
+}
+.bord2, .bord3, .bord4{
+    background-color: #BFC2C1 ;
+}
+.fix{
+    width: 90%;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 60px;
+    background-color: #9BD9C8 ;
+    border: none;
+}
+.em{
+    width: 80%;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 60px;
+    background-color: #9BD9C8 ;
+    border: none;
+}
+.max{
+    width: 70%;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 60px;
+    background-color: #9BD9C8 ;
+    border: none;
+}
+.team{
+    background-color:  #8dc3b1c2 ;
+    margin-top: -450px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+
+}
+.none h1{
+    font-size: 2em;
+    font-weight: normal;
+}
+.none{
+   position: relative;
+   top: -100px;
+    text-align: center;
+    color: white;
+}
+.team img{
+padding-left: 28px;
+}
+.marg{
+    text-align: center;
+    padding: 30px;
+}
+.var{
+    font-weight: bolder;
+    font-size: 1.1em;
+}
+.bas{
+    text-align: center;
+    background-color:#E3E8E7  ;
+    padding: 30px;
+    padding-bottom: 60px;
+}
+.bas p{
+    font-weight: bold;
+}
+.main1, .main2, .main3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main2{
+    position: relative;
+    top: -40px;
+}
+.main3{
+    position: relative;
+    left: -158px;
+    top: -60px;
+}
+h6{
+    font-size: 0.9em;
+    padding: 130px;
+    font-weight: normal;
+    color:black
+}
